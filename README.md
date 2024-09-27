@@ -1,5 +1,3 @@
-# CIS641-HW2-Hoagland
-
 # Amber Hoagland
 
 Interests:
